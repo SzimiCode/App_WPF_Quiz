@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("App_WPF_Quiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6eb59b7ed62ae927a13c2220a77a5019c3cf653")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e49e79183edccf20a448dd8be497d6c54b7f9083")]
 [assembly: System.Reflection.AssemblyProductAttribute("App_WPF_Quiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("App_WPF_Quiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

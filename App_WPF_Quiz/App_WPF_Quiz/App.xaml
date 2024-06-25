@@ -4,6 +4,16 @@
              xmlns:local="clr-namespace:App_WPF_Quiz"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style x:Key="ButtonRound" TargetType="Button">
+            <Setter Property = "Template" >
+                <Setter.Value >
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius = "15" Background="{TemplateBinding Background}" BorderThickness="0.5">
+                            <ContentPresenter HorizontalAlignment = "Center" VerticalAlignment="Center"></ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
     </Application.Resources>
 </Application>
