@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using App_WPF_Quiz.Views;
 
 namespace App_WPF_Quiz
 {
@@ -19,6 +20,14 @@ namespace App_WPF_Quiz
         public MainWindow()
         {
             InitializeComponent();
+            
+        }
+
+        private void Start_Click(object sender, RoutedEventArgs e)
+        {
+            // Po kliknięciu przycisku Start przełącz na QuizSelectionView
+            MessageBox.Show("Eo");
+            MainContent.Content = new QuizSelectionView();
         }
     }
 }

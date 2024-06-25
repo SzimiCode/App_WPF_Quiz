@@ -69,7 +69,7 @@ namespace App_WPF_Quiz {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/App_WPF_Quiz;V1.0.0.0;component/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/App_WPF_Quiz;component/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

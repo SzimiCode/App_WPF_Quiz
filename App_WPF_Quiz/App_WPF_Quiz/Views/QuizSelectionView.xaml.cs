@@ -23,6 +23,7 @@ namespace App_WPF_Quiz.Views
         public QuizSelectionView()
         {
             InitializeComponent();
+            Console.WriteLine("Konstruktor QuizSelectionView został wywołany.");
         }
     }
 }

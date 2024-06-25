@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace App_WPF_Quiz.Model
 {
-    public class Quiz//Pojedyncze pytanie
+    public class Quiz
     {
         public Question[] question { get; set; }
 

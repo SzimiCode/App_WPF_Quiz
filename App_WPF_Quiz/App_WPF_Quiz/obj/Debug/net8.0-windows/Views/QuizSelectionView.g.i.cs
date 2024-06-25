@@ -53,7 +53,7 @@ namespace App_WPF_Quiz.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/App_WPF_Quiz;V1.0.0.0;component/views/quizselectionview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/App_WPF_Quiz;component/views/quizselectionview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\QuizSelectionView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

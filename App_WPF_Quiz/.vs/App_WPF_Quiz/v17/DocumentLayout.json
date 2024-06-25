@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\programowanie\\wpf\\app_wpf_quiz\\app_wpf_quiz\\app_wpf_quiz\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|solutionrelative:app_wpf_quiz\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\programowanie\\wpf\\app_wpf_quiz\\app_wpf_quiz\\app_wpf_quiz\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|solutionrelative:app_wpf_quiz\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\programowanie\\wpf\\app_wpf_quiz\\app_wpf_quiz\\app_wpf_quiz\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|solutionrelative:app_wpf_quiz\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\programowanie\\wpf\\app_wpf_quiz\\app_wpf_quiz\\app_wpf_quiz\\views\\quizselectionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|solutionrelative:app_wpf_quiz\\views\\quizselectionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\programowanie\\wpf\\app_wpf_quiz\\app_wpf_quiz\\app_wpf_quiz\\views\\quizselectionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|solutionrelative:app_wpf_quiz\\views\\quizselectionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\programowanie\\wpf\\app_wpf_quiz\\app_wpf_quiz\\app_wpf_quiz\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|solutionrelative:app_wpf_quiz\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\programowanie\\wpf\\app_wpf_quiz\\app_wpf_quiz\\app_wpf_quiz\\model\\sqldatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|solutionrelative:app_wpf_quiz\\model\\sqldatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\programowanie\\wpf\\app_wpf_quiz\\app_wpf_quiz\\app_wpf_quiz\\model\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|solutionrelative:app_wpf_quiz\\model\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\programowanie\\wpf\\app_wpf_quiz\\app_wpf_quiz\\app_wpf_quiz\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|solutionrelative:app_wpf_quiz\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\programowanie\\wpf\\app_wpf_quiz\\app_wpf_quiz\\app_wpf_quiz\\model\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E085B37B-B467-4D86-ADA2-E32BE3CCA3C9}|App_WPF_Quiz\\App_WPF_Quiz.csproj|solutionrelative:app_wpf_quiz\\model\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +58,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "QuizSelectionView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\Views\\QuizSelectionView.xaml.cs",
+              "RelativeDocumentMoniker": "App_WPF_Quiz\\Views\\QuizSelectionView.xaml.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\Views\\QuizSelectionView.xaml.cs",
+              "RelativeToolTip": "App_WPF_Quiz\\Views\\QuizSelectionView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:43:44.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\App.xaml",
+              "RelativeDocumentMoniker": "App_WPF_Quiz\\App.xaml",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\App.xaml",
+              "RelativeToolTip": "App_WPF_Quiz\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T19:33:15.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\Model\\SQLDataManager.cs",
+              "RelativeDocumentMoniker": "App_WPF_Quiz\\Model\\SQLDataManager.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\Model\\SQLDataManager.cs",
+              "RelativeToolTip": "App_WPF_Quiz\\Model\\SQLDataManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAawBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:24:52.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\Model\\Quiz.cs",
+              "RelativeDocumentMoniker": "App_WPF_Quiz\\Model\\Quiz.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\Model\\Quiz.cs",
+              "RelativeToolTip": "App_WPF_Quiz\\Model\\Quiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:24:18.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\Model\\Question.cs",
+              "RelativeDocumentMoniker": "App_WPF_Quiz\\Model\\Question.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\Model\\Question.cs",
+              "RelativeToolTip": "App_WPF_Quiz\\Model\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:23:35.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\MainWindow.xaml",
               "RelativeDocumentMoniker": "App_WPF_Quiz\\MainWindow.xaml",
@@ -42,15 +134,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "App_WPF_Quiz\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\MainWindow.xaml.cs",
-              "RelativeToolTip": "App_WPF_Quiz\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "App_WPF_Quiz\\MainWindow.xaml.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T19:17:29.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizSelectionView.xaml",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\Views\\QuizSelectionView.xaml",
+              "RelativeDocumentMoniker": "App_WPF_Quiz\\Views\\QuizSelectionView.xaml",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\Views\\QuizSelectionView.xaml",
+              "RelativeToolTip": "App_WPF_Quiz\\Views\\QuizSelectionView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T19:39:11.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\Model\\Answer.cs",
+              "RelativeDocumentMoniker": "App_WPF_Quiz\\Model\\Answer.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Programowanie\\WPF\\App_WPF_Quiz\\App_WPF_Quiz\\App_WPF_Quiz\\Model\\Answer.cs",
+              "RelativeToolTip": "App_WPF_Quiz\\Model\\Answer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:23:02.978Z",
               "EditorCaption": ""
             }
           ]
