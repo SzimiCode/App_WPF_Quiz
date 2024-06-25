@@ -12,7 +12,6 @@ using System.Data.SQLite;
 using System.Reflection.PortableExecutable;
 using MySql.Data.MySqlClient;
 using Newtonsoft.Json;
-using Rozwiązywacz.Model;
 
 namespace App_WPF_Quiz.Model
 {
@@ -100,4 +99,4 @@ namespace App_WPF_Quiz.Model
 
     }
 }
-}
+
