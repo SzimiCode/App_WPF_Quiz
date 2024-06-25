@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Programowanie\WPF\App_WPF_Quiz\App_WPF_Quiz\App_WPF_Quiz\App.xaml
-11407045341
+22039280293
 
-10-1416383278
+11-131580963
 2121422615392
-MainWindow.xaml;
+MainWindow.xaml;Views\QuizSelectionView.xaml;
 
 True
 
