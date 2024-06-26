@@ -9,6 +9,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using App_WPF_Quiz;
 using App_WPF_Quiz.Views;
 using System;
 using System.Diagnostics;
