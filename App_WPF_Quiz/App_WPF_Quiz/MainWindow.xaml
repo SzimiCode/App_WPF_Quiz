@@ -6,7 +6,14 @@
         xmlns:local="clr-namespace:App_WPF_Quiz"
         mc:Ignorable="d"
         Title="MainWindow" Height="540" Width="300" FontFamily="Dubai">
+    <Window.DataContext>
+        <viewModels:MainViewModel />
+    </Window.DataContext>
     <Grid>
-        
+        <StackPanel>
+
+            <!-- ContentControl, który ładuje odpowiedni widok -->
+            <ContentControl Content="{Binding CurrentView}"/>
+        </StackPanel>
     </Grid>
 </Window>

@@ -6,7 +6,32 @@
              xmlns:local="clr-namespace:App_WPF_Quiz.Views"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
-            
-    </Grid>
+    <Border CornerRadius="30" BorderThickness="0">
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                <GradientStop Color="#c31432" Offset="0.0" />
+                <GradientStop Color="#240b36" Offset="1.5" />
+            </LinearGradientBrush>
+        </Border.Background>
+        <Grid>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="10"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="250"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="10"/>
+            </Grid.RowDefinitions>
+            <Button Name="Start" Grid.Column="1" Grid.Row="3" Height="40" Width="150" Content="Start" Click="Start_Click" Foreground="White" FontSize="20" Style="{StaticResource ButtonRound}" Background="#FFEA5871" />
+            <Label Grid.Row="1" Grid.Column="1" Content="Quiz" FontSize="90" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#FFEA5871"/>
+            <Label Grid.Row="1" Content="By Szymon Molitorys" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FFEA5871" Margin="51,166,0,0" Grid.Column="1"/>
+            <ContentControl x:Name="MainContent"/>
+        </Grid>
+    </Border>
 </UserControl>

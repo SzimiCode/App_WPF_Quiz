@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace App_WPF_Quiz.ViewModel
 {
-    internal class StartViewModel
+    public class StartViewModel
     {
     }
 }
