@@ -52,3 +52,7 @@ C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Programowanie\WPF\App_
 C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Programowanie\WPF\App_WPF_Quiz\App_WPF_Quiz\App_WPF_Quiz\obj\Debug\net8.0-windows\App_WPF_Quiz.pdb
 C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Programowanie\WPF\App_WPF_Quiz\App_WPF_Quiz\App_WPF_Quiz\obj\Debug\net8.0-windows\App_WPF_Quiz.genruntimeconfig.cache
 C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Programowanie\WPF\App_WPF_Quiz\App_WPF_Quiz\App_WPF_Quiz\obj\Debug\net8.0-windows\ref\App_WPF_Quiz.dll
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Programowanie\WPF\App_WPF_Quiz\App_WPF_Quiz\App_WPF_Quiz\obj\Debug\net8.0-windows\Views\HomeView.g.cs
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Programowanie\WPF\App_WPF_Quiz\App_WPF_Quiz\App_WPF_Quiz\obj\Debug\net8.0-windows\Views\SettingsView.g.cs
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Programowanie\WPF\App_WPF_Quiz\App_WPF_Quiz\App_WPF_Quiz\obj\Debug\net8.0-windows\Views\HomeView.baml
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Programowanie\WPF\App_WPF_Quiz\App_WPF_Quiz\App_WPF_Quiz\obj\Debug\net8.0-windows\Views\SettingsView.baml
